@@ -16,7 +16,9 @@ Frankfurt/M,
 Ungekürzte Ausgabe.
 ISBN 3-548-02337-1
 
-## Aufgabenliste
+## Grobe Aufgabenliste
+
+Für eine feinere To-Do-List bitte die „Issues“ konsultieren.
 
 * Passendes Format für die Rohdaten finden
 * Passende Software zur Darstellung der Rohdaten finden
